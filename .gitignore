@@ -7,3 +7,4 @@ tmp/*
 .sass-cache/
 doc/api
 doc/app
+.idea
